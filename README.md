@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A passionate beginner in frontenned developing from Ukrain</h3>
+<h3 align="center">A passionate beginner in frontenned developing from Ukraine</h3>
 
 - 🌱 I’m currently learning **JavaScript,CSS,HTML**
 
