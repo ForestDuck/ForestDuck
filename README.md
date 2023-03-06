@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **max21nuk@gmail.com**
 
-- ⚡ Fun fact **I tried to Google fun fact**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
